@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApp4</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="hii">HI MANSI</string>
+    <string name="previous">Previous</string>
+</resources>
